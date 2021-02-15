@@ -8,7 +8,7 @@
 
 
 ---
-![](310.jpg)
+![](download.jfif)
 ---
 
 This  data set has 414 rows and 7 columns. 
